@@ -1,3 +1,9 @@
+## Indentifying Information
+1. Name: Ryley Jue
+2. Student ID: 23668899
+3. Email: rjue@chapman.edu
+4. Class: cpsc298
+5. Assignment: cars
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
